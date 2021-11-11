@@ -28,7 +28,7 @@ public class Main {
    /* jsonObject = (JSONObject) new JSONTokener(getResult).nextValue();
      Strin Id = APIQrySOQL.getResult();
     System.out.println("Total: " + Total);
-    hola232323
+    hola232323.5656756
     */
         
         
