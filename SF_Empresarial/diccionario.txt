@@ -1,0 +1,3 @@
+/*Diccionario de datos*/
+ACCNT= Account
+CFACT= Contrato de Facturacion
